@@ -1,6 +1,6 @@
 {
   "id": "tv.plex",
-  "version": "1.5.1",
+  "version": "1.6.0",
   "compatibility": ">=12.1.0",
   "brandColor": "#E5A00D",
   "sdk": 3,
