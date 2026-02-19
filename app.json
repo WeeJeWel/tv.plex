@@ -116,6 +116,13 @@
             }
           },
           {
+            "type": "image",
+            "name": "mediaImage",
+            "title": {
+              "en": "Artwork"
+            }
+          },
+          {
             "type": "string",
             "name": "userTitle",
             "title": {
