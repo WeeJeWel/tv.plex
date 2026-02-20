@@ -107,6 +107,16 @@
           },
           {
             "type": "string",
+            "name": "playerAddress",
+            "title": {
+              "en": "Address"
+            },
+            "example": {
+              "en": "182.168.1.23"
+            }
+          },
+          {
+            "type": "string",
             "name": "mediaTitle",
             "title": {
               "en": "Media"
