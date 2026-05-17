@@ -182,6 +182,16 @@
           },
           {
             "type": "string",
+            "name": "playerAddress",
+            "title": {
+              "en": "Player Address"
+            },
+            "example": {
+              "en": "182.168.1.23"
+            }
+          },
+          {
+            "type": "string",
             "name": "mediaTitle",
             "title": {
               "en": "Media"
@@ -236,6 +246,16 @@
             },
             "example": {
               "en": "f658383a-63c2-4d9c-b031-1ae346e6fc26"
+            }
+          },
+          {
+            "type": "string",
+            "name": "playerAddress",
+            "title": {
+              "en": "Player Address"
+            },
+            "example": {
+              "en": "182.168.1.23"
             }
           },
           {
